@@ -61,6 +61,7 @@ export function Contact() {
                    <MessageCircle className="h-4 w-4 text-primary" /> WhatsApp
                   </a>
                 </Button>
+                </a>
                 <Button asChild variant="outline" className="rounded-full border-primary/40 font-semibold px-5 py-2 h-12">
                   <a href={MAPS} target="_blank" rel="noreferrer">
                     <Navigation className="h-4 w-4 text-primary" /> Directions
