@@ -73,7 +73,7 @@ export function Contact() {
           <Reveal delay={0.1} className="overflow-hidden rounded-2xl border border-border/60">
             <iframe
               title="Skin Solutions location map"
-              src="https://www.google.com/maps?q=Swaroop+Nagar+Khalasi+Line+Kanpur+Uttar+Pradesh&output=embed"
+             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14284.7018512633!2d80.31525110253871!3d26.48229479364925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399c4799eaaaaaab%3A0xe2021a5efd8ce215!2sSkin%20Solutions-%20Best%20Skin%20Clinic%20in%20Kanpur!5e0!3m2!1sen!2sin!4v1782150314700!5m2!1sen!2sin"
               className="h-full min-h-[360px] w-full"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
