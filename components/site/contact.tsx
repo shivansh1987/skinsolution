@@ -58,7 +58,7 @@ export function Contact() {
                 </Button>
                <Button asChild variant="outline" className="rounded-full border-primary/40 font-semibold px-5 py-2 h-12">
                   <a href={WHATSAPP} target="_blank" rel="noreferrer">
-                    <MessageCircle className="h-4 w-4 text-primary" />
+                   <MessageCircle className="h-4 w-4 text-primary" /> WhatsApp
                   </a>
                 </Button>
                 <Button asChild variant="outline" className="rounded-full border-primary/40 font-semibold px-5 py-2 h-12">
