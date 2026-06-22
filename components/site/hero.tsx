@@ -64,7 +64,7 @@ export function Hero() {
             transition={{ duration: 0.7, delay: 0.05 }}
             className="mt-6 text-balance font-heading text-4xl font-extrabold leading-[1.05] tracking-tight sm:text-5xl lg:text-6xl"
           >
-            Healthy Skin. <span className="text-gradient">Stronger Hair.</span> Renewed
+            Healthy Skin. <span className="text-white">Stronger Hair.</span> Renewed
             Confidence.
           </motion.h1>
 
