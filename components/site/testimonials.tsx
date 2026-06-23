@@ -46,7 +46,7 @@ export function Testimonials() {
           </h2>
           <div className="mt-4 flex items-center justify-center gap-1">
             {[...Array(5)].map((_, i) => (
-              <Star key={i} className="h-5 w-5 fill-secondary text-secondary" />
+              <Star className="h-5 w-5 text-yellow-400 fill-yellow-400" />
             ))}
             <span className="ml-2 text-sm font-semibold">5.0 average rating</span>
           </div>
