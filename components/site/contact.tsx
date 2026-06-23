@@ -62,7 +62,11 @@ export function Contact() {
                   </a>
                 </Button>
                 <Button asChild variant="outline" className="rounded-full border-primary/40 font-semibold px-5 py-2 h-12">
-                  <a href={MAPS} target="_blank" rel="noreferrer">
+                  <a
+                 href="https://maps.google.com/?q=Skin+Solutions+Best+Skin+Clinic+in+Kanpur"
+                 target="_blank"
+                 rel="noreferrer"
+>
                     <Navigation className="h-4 w-4 text-primary" /> Directions
                   </a>
                 </Button>
